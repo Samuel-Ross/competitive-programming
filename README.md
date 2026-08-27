@@ -1,85 +1,79 @@
-অবশ্যই — তোমার **Codeforces + AtCoder competitive programming journey**-এর জন্য এই professional README ব্যবহার করতে পারো। এতে badges, progress tracker, goals, stats এবং roadmap থাকবে।
+অবশ্যই। তোমার **Competitive Programming GitHub repository-এর জন্য ready-to-paste `README.md`** নিচে দিলাম। শুধু `0+` এবং নিজের rating পরে update করবে।
 
 # 🏆 Competitive Programming
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/Competitive%20Programming-FFA116?style=for-the-badge&logo=codeforces&logoColor=white](https://img.shields.io/badge/Competitive%20Programming-FFA116?style=for-the-badge&logo=codeforces&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" />
+  <img src="https://img.shields.io/badge/Codeforces-FFA116?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>Learning • Solving • Competing • Improving 🚀</b>
+  <b>Learn • Solve • Compete • Improve 🚀</b>
 </p>
 
 ---
 
 ## 👨‍💻 About
 
-This repository contains my **Competitive Programming journey**, including solutions, notes, templates, and contest practice.
+This repository contains my **Competitive Programming journey**.
 
-Main platforms:
+Here I upload:
 
-* 🔵 Codeforces
-* 🟢 AtCoder
-* 🟣 Other Online Judges
+* 🔵 Codeforces solutions
+* 🟢 AtCoder solutions
+* 🧠 Algorithm & Data Structure notes
+* ⚡ C++ templates
+* 🏁 Contest practice
+* 📊 My CP progress
 
-Primary language:
-
-* 💻 C++
-
----
-
-# 📊 Progress Tracker
-
-## 🔵 Codeforces
-
-| Rating | Progress   | Status         |
-| ------ | ---------- | -------------- |
-| 800    | 🟩🟩🟩🟩🟩 | ✅ Completed    |
-| 900    | 🟩🟩🟩🟩⬜  | 🔥 In Progress |
-| 1000   | 🟩🟩⬜⬜⬜    | 🎯 Target      |
-| 1100   | 🟩⬜⬜⬜⬜     | 🔒 Locked      |
-| 1200   | ⬜⬜⬜⬜⬜      | 🔒 Locked      |
-| 1300   | ⬜⬜⬜⬜⬜      | 🔒 Locked      |
-| 1400   | ⬜⬜⬜⬜⬜      | 🏆 Long-term   |
-
-### 🎯 Current Target
-
-**Reach Codeforces 1000 → 1200 → 1400**
+**Primary Language:** C++
 
 ---
 
-## 🟢 AtCoder
+## 📊 Progress Tracker
 
-| Level    | Target |
-| -------- | ------ |
-| 🟤 Brown | 🎯     |
-| 🟢 Green | 🎯     |
-| 🔵 Cyan  | 🚀     |
-| 🟦 Blue  | 🏆     |
+### 🔵 Codeforces
+
+| Rating |     Status     |
+| :----: | :------------: |
+|   800  |   ✅ Completed  |
+|   900  | 🔥 In Progress |
+|  1000  |    🎯 Target   |
+|  1100  |    🔒 Future   |
+|  1200  |    🔒 Future   |
+|  1300  |    🔒 Future   |
+|  1400  |  🏆 Long-Term  |
+
+### 🟢 AtCoder
+
+|   Rank   |     Goal     |
+| :------: | :----------: |
+| 🟤 Brown |   🎯 Target  |
+| 🟢 Green |    🚀 Next   |
+|  🔵 Cyan | 🏆 Long-Term |
+|  🔷 Blue |    ⭐ Dream   |
 
 ---
 
-# 📈 Problem Solving Tracker
+## 📈 Problems Solved
 
 | Platform      | Solved |
-| ------------- | -----: |
+| :------------ | -----: |
 | 🔵 Codeforces |     0+ |
 | 🟢 AtCoder    |     0+ |
-| 🟣 Other      |     0+ |
+| 🟣 Other OJ   |     0+ |
 | **Total**     | **0+** |
 
-> Update these numbers regularly as you solve new problems.
+> 📌 This section will be updated as I solve more problems.
 
 ---
 
-# 📚 Topics
+## 📚 Topics
 
 ### 🟢 Beginner
 
-* [ ] Basic Implementation
+* [ ] C++ Basics
 * [ ] Conditions
 * [ ] Loops
 * [ ] Arrays
@@ -109,31 +103,29 @@ Primary language:
 * [ ] DSU
 * [ ] Segment Tree
 * [ ] Fenwick Tree
-* [ ] Advanced DP
 
 ---
 
-# 🔥 Daily Practice
+## 🔥 Daily Practice
 
-My regular CP routine:
+My daily competitive programming routine:
 
-* ✅ 3 Codeforces problems
-* ✅ 1 AtCoder previous-contest problem
-* ✅ Review failed problems
-* ✅ Learn at least one new concept
-* ✅ Participate in contests regularly
+* 🎯 Solve **3 Codeforces problems**
+* 🟢 Solve **1 previous AtCoder problem**
+* 🧠 Review wrong submissions
+* 📚 Learn new algorithms and techniques
+* 🏁 Participate in contests regularly
 
 ---
 
-# 🏁 Contest Goals
+## 🏁 Contest Goals
 
 ### Codeforces
 
 * [ ] Participate regularly
-* [ ] Solve A
-* [ ] Solve B
-* [ ] Solve C
-* [ ] Improve contest speed
+* [ ] Solve A quickly
+* [ ] Solve B consistently
+* [ ] Start solving C
 * [ ] Reach 1000 rating
 * [ ] Reach 1200 rating
 * [ ] Reach 1400 rating
@@ -144,13 +136,12 @@ My regular CP routine:
 * [ ] Solve A
 * [ ] Solve B
 * [ ] Solve C
-* [ ] Improve implementation speed
 * [ ] Reach Brown
 * [ ] Reach Green
 
 ---
 
-# 🗂️ Repository Structure
+## 🗂️ Repository Structure
 
 ```text
 competitive-programming/
@@ -163,17 +154,15 @@ competitive-programming/
 │   └── 1200/
 │
 ├── AtCoder/
-│   ├── ABC/
-│   └── Previous-Contests/
+│   └── ABC/
 │
 ├── Templates/
-│   ├── cpp_template.cpp
-│   ├── graph.cpp
-│   └── number_theory.cpp
+│   └── cpp_template.cpp
 │
 ├── Notes/
 │   ├── STL.md
 │   ├── Binary_Search.md
+│   ├── Greedy.md
 │   ├── DP.md
 │   └── Graph.md
 │
@@ -182,39 +171,37 @@ competitive-programming/
 
 ---
 
-# 🧠 Problem Solving Strategy
-
-For every problem:
+## 🧠 Problem Solving Process
 
 ```text
-1. Read the problem
-        ↓
-2. Understand the constraints
-        ↓
-3. Find the observation
-        ↓
-4. Think of an algorithm
-        ↓
-5. Estimate complexity
-        ↓
-6. Implement in C++
-        ↓
-7. Test edge cases
-        ↓
-8. Submit
-        ↓
-9. Review if wrong
+Read Problem
+     ↓
+Understand Constraints
+     ↓
+Find Observation
+     ↓
+Design Algorithm
+     ↓
+Check Complexity
+     ↓
+Implement in C++
+     ↓
+Test Edge Cases
+     ↓
+Submit
+     ↓
+Analyze & Improve
 ```
 
 ---
 
-# ⚡ C++ Template
+## ⚡ C++ Template
 
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
-#define ll long long
+using ll = long long;
 
 int main() {
     ios::sync_with_stdio(false);
@@ -228,54 +215,56 @@ int main() {
 
 ---
 
-# 📌 Important Principles
-
-> 💡 Don't memorize solutions. Understand the idea.
-
-> 🔥 Solve consistently.
-
-> 🧠 Learn from wrong submissions.
-
-> ⏱️ Improve speed and accuracy.
-
-> 🚀 Compete regularly.
-
----
-
-# 🎯 Long-Term Goals
+## 🎯 Long-Term Roadmap
 
 ```text
 C++ Fundamentals
-       ↓
+        ↓
 Codeforces 800
-       ↓
+        ↓
+Codeforces 900
+        ↓
 Codeforces 1000
-       ↓
+        ↓
 Codeforces 1200
-       ↓
+        ↓
 Codeforces 1400
-       ↓
+        ↓
 Codeforces 1600+
-       ↓
+        ↓
 ICPC
 ```
 
 ---
 
-# 🏆 ICPC Goal
+## 🏆 ICPC Goal
 
-My long-term goal is to become a strong competitive programmer and perform well in **ICPC / university programming contests**.
+My long-term goal is to become a strong competitive programmer and perform well in **ICPC and university programming contests**.
 
 ### Mission
 
-**Solve → Learn → Compete → Analyze → Improve**
+> **Solve → Learn → Compete → Analyze → Improve**
+
+---
+
+## 📌 Principles
+
+* 💡 Understand, don't memorize.
+* 🔥 Practice consistently.
+* 🧠 Learn from wrong answers.
+* ⏱️ Improve speed and accuracy.
+* 🚀 Never stop learning.
+
+---
+
+## 📄 License
+
+This repository is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
 <p align="center">
-  <b>🚀 Keep Coding. Keep Solving. Keep Improving.</b>
-</p>
-
-<p align="center">
-  ⭐ Star this repository if you find it useful!
+  🚀 <b>Keep Coding. Keep Solving. Keep Improving.</b> 🚀
 </p>
